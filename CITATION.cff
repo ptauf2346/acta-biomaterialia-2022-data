@@ -1,0 +1,16 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  2022 Acta Biomaterialia Manuscript - Taufalele et
+  al
+message: Please cite this dataset using these metadata.
+type: dataset
+authors:
+  - given-names: Paul V. Taufalele
+    email: paul.v.taufalele@vanderbilt.edu
+    affiliation: Vanderbilt University
+  - given-names: Cynthia A. Reinhart-King
+    email: cynthia.reinhart-king@vanderbilt.edu
+    affiliation: Vanderbilt University
